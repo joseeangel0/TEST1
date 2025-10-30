@@ -3,6 +3,7 @@ import sys
 import boto3
 from awsglue.transforms import *
 from awsglue.utils import getResolvedOptions
+from awsglue.dynamicframe import DynamicFrame
 from pyspark.context import SparkContext
 from awsglue.context import GlueContext
 from awsglue.job import Job
@@ -100,7 +101,7 @@ if latest_raw_key:
     output_path = f"s3://{S3_BUCKET_NAME}/{S3_PROCESSED_PREFIX}"
     
     # Convert back to DynamicFrame before writing
-    final_dynamic_frame = final_df.repartition(1).fromDF(final_df, glueContext, "final_df")
+    final_dynamic_frame = DynamicFrame.fromDF(final_df.repartition(1), glueContext, "final_df")
 
     glueContext.write_dynamic_frame.from_options(
         frame=final_dynamic_frame,
