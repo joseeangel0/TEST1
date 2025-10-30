@@ -1,0 +1,56 @@
+name,height,mass,hair_color,skin_color,eye_color,birth_year,gender,normalized_birth_year,mass_lb,gender_id
+Luke Skywalker,172,77.0,blond,fair,blue,19BBY,male,1981.0,169.75573999999997,M
+C-3PO,167,75.0,,gold,yellow,112BBY,,1888.0,165.3465,N
+R2-D2,96,32.0,,"white, blue",red,33BBY,,1967.0,70.54784,N
+Darth Vader,202,136.0,none,white,yellow,41.9BBY,male,1958.1,299.82831999999996,M
+Leia Organa,150,49.0,brown,light,brown,19BBY,female,1981.0,108.02637999999999,F
+Owen Lars,178,120.0,"brown, grey",light,blue,52BBY,male,1948.0,264.5544,M
+Beru Whitesun lars,165,75.0,brown,light,blue,47BBY,female,1953.0,165.3465,F
+Biggs Darklighter,183,84.0,black,light,brown,24BBY,male,1976.0,185.18807999999999,M
+Obi-Wan Kenobi,182,77.0,"auburn, white",fair,blue-gray,57BBY,male,1943.0,169.75573999999997,M
+Anakin Skywalker,188,84.0,blond,fair,blue,41.9BBY,male,1958.1,185.18807999999999,M
+Chewbacca,228,112.0,brown,,blue,200BBY,male,1800.0,246.91743999999997,M
+Han Solo,180,80.0,brown,fair,brown,29BBY,male,1971.0,176.3696,M
+Greedo,173,74.0,,green,black,44BBY,male,1956.0,163.14188,M
+Wedge Antilles,170,77.0,brown,fair,hazel,21BBY,male,1979.0,169.75573999999997,M
+Jek Tono Porkins,180,110.0,brown,fair,blue,,male,,242.5082,M
+Yoda,66,17.0,white,green,brown,896BBY,male,1104.0,37.478539999999995,M
+Palpatine,170,75.0,grey,pale,yellow,82BBY,male,1918.0,165.3465,M
+Boba Fett,183,78.2,black,fair,brown,31.5BBY,male,1968.5,172.401284,M
+IG-88,200,140.0,none,metal,red,15BBY,none,1985.0,308.6468,N
+Bossk,190,113.0,none,green,red,53BBY,male,1947.0,249.12205999999998,M
+Lando Calrissian,177,79.0,black,dark,brown,31BBY,male,1969.0,174.16497999999999,M
+Lobot,175,79.0,none,light,blue,37BBY,male,1963.0,174.16497999999999,M
+Ackbar,180,83.0,none,brown mottle,orange,41BBY,male,1959.0,182.98345999999998,M
+Wicket Systri Warrick,88,20.0,brown,brown,brown,8BBY,male,1992.0,44.0924,M
+Nien Nunb,160,68.0,none,grey,black,,male,,149.91415999999998,M
+Qui-Gon Jinn,193,89.0,brown,fair,blue,92BBY,male,1908.0,196.21117999999998,M
+Nute Gunray,191,90.0,none,mottled green,red,,male,,198.4158,M
+Padmé Amidala,185,45.0,brown,light,brown,46BBY,female,1954.0,99.2079,F
+Jar Jar Binks,196,66.0,none,orange,orange,52BBY,male,1948.0,145.50492,M
+Roos Tarpals,224,82.0,none,grey,orange,,male,,180.77883999999997,M
+Sebulba,112,40.0,none,"grey, red",orange,,male,,88.1848,M
+Darth Maul,175,80.0,none,red,yellow,54BBY,male,1946.0,176.3696,M
+Ayla Secura,178,55.0,none,blue,hazel,48BBY,female,1952.0,121.2541,F
+Dud Bolt,94,45.0,none,"blue, grey",yellow,,male,,99.2079,M
+Ben Quadinaros,163,65.0,none,"grey, green, yellow",orange,,male,,143.3003,M
+Mace Windu,188,84.0,none,dark,brown,72BBY,male,1928.0,185.18807999999999,M
+Ki-Adi-Mundi,198,82.0,white,pale,yellow,92BBY,male,1908.0,180.77883999999997,M
+Kit Fisto,196,87.0,none,green,black,,male,,191.80193999999997,M
+Adi Gallia,184,50.0,none,dark,blue,,female,,110.231,F
+Plo Koon,188,80.0,none,orange,black,22BBY,male,1978.0,176.3696,M
+Gregar Typho,185,85.0,black,dark,brown,,male,,187.3927,M
+Poggle the Lesser,183,80.0,none,green,yellow,,male,,176.3696,M
+Luminara Unduli,170,56.2,black,yellow,blue,58BBY,female,1942.0,123.899644,F
+Barriss Offee,166,50.0,black,yellow,blue,40BBY,female,1960.0,110.231,F
+Dooku,193,80.0,white,fair,brown,102BBY,male,1898.0,176.3696,M
+Jango Fett,183,79.0,black,tan,brown,66BBY,male,1934.0,174.16497999999999,M
+Zam Wesell,168,55.0,blonde,"fair, green, yellow",yellow,,female,,121.2541,F
+Dexter Jettster,198,102.0,none,brown,yellow,,male,,224.87123999999997,M
+Lama Su,229,88.0,none,grey,black,,male,,194.00655999999998,M
+Shaak Ti,178,57.0,none,"red, blue, white",black,,female,,125.66333999999999,F
+Grievous,216,159.0,none,"brown, white","green, yellow",,male,,350.53457999999995,M
+Tarfful,234,136.0,brown,brown,blue,,male,,299.82831999999996,M
+Raymus Antilles,188,79.0,brown,light,brown,,male,,174.16497999999999,M
+Sly Moore,178,48.0,none,pale,white,,female,,105.82175999999998,F
+Tion Medon,206,80.0,none,grey,black,,male,,176.3696,M
